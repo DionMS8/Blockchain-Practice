@@ -1,6 +1,6 @@
 # Blockchain-Practice
 
-![image](https://user-images.githubusercontent.com/55777067/150635077-49a662f5-d9fc-4df7-9c1d-61c60415bce1.png)
+![image](https://user-images.githubusercontent.com/55777067/150635184-ed54c1bf-327e-41e6-997e-98fcc9a7e203.png)
 
 ## Table of contents
 * [General info](#general-info)
